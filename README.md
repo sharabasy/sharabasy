@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ibrahim El Sharabasy</h1>
 <h3 align="center">🚀 Front-End Developer | React.js | JavaScript | Redux</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/sharabasy">
     <img src="https://komarev.com/ghpvc/?username=sharabasy&label=Profile%20Views&color=0e75b6&style=flat" alt="sharabasy" />
   </a>
 </p>
-
----
 
 ### 🌟 About Me  
 🔹 Passionate **Front-End Developer** with a strong focus on **responsive design, performance optimization, and user-friendly interfaces**.  
@@ -16,6 +14,7 @@
 🔹 Always learning and improving my skills in **JavaScript, UI/UX, and performance optimization**.  
 
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" align="right">
 
 ### 🚀 Tech Stack  
 💻 **Languages:**  
@@ -45,9 +44,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharabasy&layout=compact&theme=radical" alt="Top Languages" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharabasy&layout=compact&theme=radical" alt="Top Languages" align="left" />
   <img src="https://github-readme-stats.vercel.app/api?username=sharabasy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ---
 
